@@ -71,6 +71,5 @@ python estoquePOO.py
 ## Autor
 
 Helbert Dias Filho  
-Lucas Apolinário
-Guilherme Ramos
+
 https://github.com/dias-byte
