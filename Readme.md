@@ -70,5 +70,7 @@ python estoquePOO.py
 
 ## Autor
 
-Emerson Dias Filho  
+Helbert Dias Filho  
+Lucas Apolinário
+Guilherme Ramos
 https://github.com/dias-byte
